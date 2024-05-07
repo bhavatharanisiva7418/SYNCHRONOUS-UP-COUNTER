@@ -51,7 +51,7 @@ begin
 end
 endmodule
 ```
-**RTL LOGIC UP COUNTER**
+
 ![image](https://github.com/bhavatharanisiva7418/SYNCHRONOUS-UP-COUNTER/assets/147473922/4d245cb1-dd90-4edf-9554-7a77b7ea116f)
 
 **TIMING DIAGRAM FOR IP COUNTER**
